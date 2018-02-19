@@ -1,0 +1,8 @@
+*
+**/
+
+!.gitignore
+!license.txt
+
+!IBMPlexSans-Light-Latin1.woff2
+!IBMPlexSans-Regular-Latin1.woff2

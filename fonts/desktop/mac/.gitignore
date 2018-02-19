@@ -1,0 +1,10 @@
+*
+**/
+
+!.gitignore
+!license.txt
+
+!IBMPlexSans-Bold.otf
+!IBMPlexSans-ExtraLight.otf
+!IBMPlexSans-Light.otf
+!IBMPlexSans-Regular.otf

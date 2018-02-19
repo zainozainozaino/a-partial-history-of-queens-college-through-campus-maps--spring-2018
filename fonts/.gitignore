@@ -1,0 +1,8 @@
+*
+**/
+
+!.gitignore
+!license.txt
+
+!desktop/
+!web/
